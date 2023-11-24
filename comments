@@ -1,0 +1,9 @@
+#!/bin/bash
+
+
+#This is singl eline comments
+
+<<comment
+This is multiiline comments
+comment
+echo "Comments"
